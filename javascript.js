@@ -26,7 +26,7 @@ button.addEventListener('click',()=>{
 
     element1.textContent = "BMI Categories:";
 
-    element2.textContent = "Underweight = < 18.5";
+    element2.textContent = "Underweight <= 18.5";
 
     element3.textContent = "Normal Weight = 18.5-24.9";
     
